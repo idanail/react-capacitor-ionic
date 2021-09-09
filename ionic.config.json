@@ -1,0 +1,8 @@
+{
+  "name": "To-do List App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "30a93a53"
+}

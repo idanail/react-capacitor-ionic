@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "To-do List App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
